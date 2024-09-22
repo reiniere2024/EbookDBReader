@@ -20,5 +20,8 @@ The program contains already some of the classic novels and you
 can find new EBooks on Gutemberg.org Download the Text version
 of the EBook and enter the contents in the program.
 
+When you are opening the solution in Visual Studio then you must 
+move the XML-map to the bin/debug-map.
+
 Good luck,
 Reiniere.
