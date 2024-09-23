@@ -15,6 +15,7 @@ made my own EBook readers.
 My EBook DB reader is for reading plain text and I use it mainly for
 for all my Prose EBooks. All EBooks are stored in a central archive
 and there is no need to keep separate text files.
+I have made the program in Visual Studio 2008
 
 The program contains already some of the classic novels and you
 can find new EBooks on Gutemberg.org Download the Text version
